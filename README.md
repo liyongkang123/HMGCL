@@ -21,6 +21,7 @@ Before to execute *HMGCL*, it is necessary to install the following packages:
 
 
 You can download whole [raw Foursquare Dataset](https://sites.google.com/site/yangdingqi/home/foursquare-dataset) here.
+Our data can be found at [here](https://drive.google.com/drive/folders/12MR5w8VnaJ1Rag918_U3Cy4ocGxKBIaf?usp=sharing).
 
 ### Basic Usage
  
