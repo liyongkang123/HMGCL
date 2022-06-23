@@ -1,5 +1,5 @@
 # HMGNN
-This is code for our ECMLPKDD2022 paper《Heterogeneous Multigraph Neural Network with Supervised Contrastive Learning for Friend Recommendation in Location-based Social Networks》
+This is code for our  paper《HMGCL: Heterogeneous Multigraph Contrastive Learning for LBSN Friend Recommendation》
 
 
 Before to execute *HMGNN*, it is necessary to install the following packages:
