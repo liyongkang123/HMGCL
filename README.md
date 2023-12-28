@@ -1,5 +1,5 @@
 # HMGNN
-This is code for our  paper《HMGCL: Heterogeneous Multigraph Contrastive Learning for LBSN Friend Recommendation》
+This is code for our WWWJ paper《HMGCL: Heterogeneous Multigraph Contrastive Learning for LBSN Friend Recommendation》
 
 
 Before to execute *HMGCL*, it is necessary to install the following packages:
