@@ -52,7 +52,8 @@ class HeteroDotProductPredictor(nn.Module):
             return logits_2
 
 def contrastive_loss(user_emb,g):
-    adj_friend=g.adj(scipy_fmt='coo',etype='friend')
+    # adj_friend=g.adj(scipy_fmt='coo',etype='friend')
+    adj_friend = g.adj_external(scipy_fmt='coo',etype='friend' )  # for dgl >1.0.x , use adj_external()
     adj_friend=adj_friend.todense()
     row,col=np.diag_indices_from(adj_friend)
     adj_friend[row,col]=1

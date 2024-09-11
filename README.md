@@ -17,6 +17,8 @@ Before to execute *HMGCL*, it is necessary to install the following packages:
 - scikit-learn==1.0.2
 - dgl ==0.7.2
 
+【September 11, 2024】The modified code now supports the latest versions of torch and DGL.
+
 ### Data Set
 
 
