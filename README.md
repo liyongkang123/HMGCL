@@ -1,8 +1,8 @@
-# HMGNN
+# HMGCL
 This is code for our WWWJ paper《HMGCL: Heterogeneous Multigraph Contrastive Learning for LBSN Friend Recommendation》
 
 
-Before to execute *HMGCL*, it is necessary to install the following packages:
+Before to run *HMGCL*, it is necessary to install the following packages:
 <br/>
 ``pip install dgl``
 <br/>
