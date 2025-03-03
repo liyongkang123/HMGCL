@@ -26,6 +26,9 @@ You can download whole [raw Foursquare Dataset](https://sites.google.com/site/ya
 
 Our data can be found at [here](https://drive.google.com/file/d/1i6W2oz0PEidhG2md6pn1u-HRT3wmWyh7/view?usp=sharing).
 
+【March 3, 2025】 Please refer to the code implementation in [H3GNN](https://github.com/liyongkang123/H3GNN) to learn more about processing heterogeneous multigraph data. 
+We provide an updated version of the code that can complete the data preprocessing for a single city within 10 minutes.
+
 ### Basic Usage
  
 - --run  main.py to train the HMGCL. and it probably need at least 11G GPU memory 
