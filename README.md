@@ -37,3 +37,20 @@ We provide an updated version of the code that can complete the data preprocessi
 ### Miscellaneous
 
 *Note:* This is only a reference implementation of *HMGCL*. Our code implementation is partially based on the DGL library, for which we are grateful.
+
+# Citation
+If you find this work helpful, please consider citing our paper:
+```bibtex
+@article{li2023hmgcl,
+  title={HMGCL: Heterogeneous multigraph contrastive learning for LBSN friend recommendation},
+  author={Li, Yongkang and Fan, Zipei and Yin, Du and Jiang, Renhe and Deng, Jinliang and Song, Xuan},
+  journal={World Wide Web},
+  volume={26},
+  number={4},
+  pages={1625--1648},
+  year={2023},
+  publisher={Springer},
+  url = {https://doi.org/10.1007/s11280-022-01092-5},
+  doi = {10.1007/s11280-022-01092-5},
+}
+```
